@@ -1,10 +1,11 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Eric McKinney",
+  "siteUrl": "https://sharp-darwin-1d69ad.netlify.app/",
+  "description": "A personal portfolio and dev blog. I code with Ruby, Rails, JS, React, Vue, Go, and a few other fun languages and frameworks. I love working on rasberry pi's and automating difficult and tedious tasks.",
+
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hello, my name is Eric",
+    "description": "I am a Ruby on Rails and React developer. By day I work for a company called Pure Oxygen Labs, and at night I like to tinker with side projects and hopefully do a little blogging. Feel free to check out my projects and don't hesitate to drop me a line."
   },
   "w3l_dom_key": "5e609f7a2d23fCF_Domain_verify"
 }
